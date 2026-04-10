@@ -1,6 +1,7 @@
+#!/usr/bin/env python3
 import rclpy
+import threading
 from std_msgs.msg import Int32
-
 
 def main():
   rclpy.init()
