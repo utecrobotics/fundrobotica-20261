@@ -1,6 +1,6 @@
+#!/usr/bin/env python3
 import rclpy
 from std_msgs.msg import Int32
-
 
 def main():
   rclpy.init()
